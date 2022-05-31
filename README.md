@@ -1,7 +1,7 @@
 # WordleClone
 Implementation of a Wordle clone in Python
 
-The basis for my version of Wordle is the file sgb-words.txt. This file is accessible at https://www-cs-faculty.stanford.edu/~knuth/sgb-words.txt
+The basis for my version of Wordle is the file sgb-words.txt. It contains more than 5.700 five letter words. This file is accessible at https://www-cs-faculty.stanford.edu/~knuth/sgb-words.txt
 
 - word_list() reads the sgb-words.txt file and returns a list of the words in the file.
 - random_word() takes a list of words as a parameter and returns a random word from this list.
