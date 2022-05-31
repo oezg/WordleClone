@@ -1,5 +1,8 @@
 # WordleClone
 Implementation of a Wordle clone in Python
+To run the game, copy the wordle.py and the sgb-words.txt files into a directory. Type 
+    python3 wordle.py 
+in the command line after changing directory into the folder, into which you have copied the files. 
 
 The basis for my version of Wordle is the file sgb-words.txt. It contains more than 5.700 five letter words. This file is accessible at https://www-cs-faculty.stanford.edu/~knuth/sgb-words.txt
 
